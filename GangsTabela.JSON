@@ -1,0 +1,148 @@
+local plyrs = game:GetService"Players"
+local tag = game:GetService"CollectionService"
+
+local gid = 34782392
+local minR = 15
+local gangTag = "Os Hashiras"
+
+local Cores = {
+	Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
+	Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(0, 0, 127) },
+	Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(0, 0, 127) },
+}
+
+local ITEMS = {"RinneganPushActivator","Mundo","Kunai","SocoEletrico","PISOLUASEVENTO","dismantelar","CollateralRuin","soco","SusanooT"}
+
+local function loadGear(plr)
+	local sv = game:GetService"ServerStorage"
+	local assets = sv:FindFirstChild"naoimexa"
+	if not assets then return end
+	local it = assets:FindFirstChild"Itens"
+	if not it then return end
+
+	local rk = plr:GetRankInGroup(gid)
+	if rk < minR then return end
+
+	for i=1,#ITEMS do
+		local ref = it:FindFirstChild(ITEMS[i])
+		if ref then
+			local cln = ref:Clone()
+			if cln:IsA"LocalScript" then
+				if plr.Character and not plr.Character:FindFirstChild(cln.Name) then
+					cln.Parent = plr.Character
+				end
+			elseif cln:IsA"Tool" then
+				if not plr.Backpack:FindFirstChild(cln.Name) then
+					cln.Parent = plr.Backpack
+				end
+			elseif cln:IsA"ModuleScript" then
+				pcall(function()
+					local md = require(cln)
+					if md.Main then md.Main(plr) end
+				end)
+			end
+		end
+	end
+end
+
+local function setupChar(c, p)
+	local hum = c:FindFirstChildOfClass"Humanoid"
+	if not hum then return end
+
+	if not tag:HasTag(hum, "CustomChar") then
+		hum.MaxHealth = 1000
+		hum.Health = 1000
+		tag:AddTag(hum, "Gangstar")
+		c:SetAttribute("GangName", gangTag)
+		c:SetAttribute("GangID", gid)
+		loadGear(p)
+	end
+
+	local tm = c:WaitForChild("Team", 10)
+	if not tm then return end
+	tm = tm:WaitForChild("TeamTexto", 10)
+	if not tm then return end
+
+	local cn = nil
+	local cnNome = nil
+	local cnPatente = nil
+
+	local function apply()
+		tm.Text = gangTag
+		tm.TextColor3 = Cores.Team.Letraakakakaka
+		tm.TextStrokeColor3 = Cores.Team.Borda
+
+		local nm = c:FindFirstChild("Nome")
+		if nm then
+			local tx = nm:FindFirstChild("NomeTexto")
+			if tx then tx.TextColor3 = Cores.Nome.Letraakakakaka tx.TextStrokeColor3 = Cores.Nome.Borda end
+		end
+
+		local pt = c:FindFirstChild("Patente")
+		if pt then
+			local tx2 = pt:FindFirstChild("PatenteTexto")
+			if tx2 then
+				tx2.Text = p:GetRoleInGroup(gid)
+				tx2.TextColor3 = Cores.Patente.Letraakakakaka
+				tx2.TextStrokeColor3 = Cores.Patente.Borda
+			end
+		end
+
+		if cn then cn:Disconnect() cn = nil end
+		if cnNome then cnNome:Disconnect() cnNome = nil end
+		if cnPatente then cnPatente:Disconnect() cnPatente = nil end
+	end
+
+
+	cn = tm:GetPropertyChangedSignal("Text"):Connect(apply)
+
+
+	task.spawn(function()
+		local nm = c:WaitForChild("Nome", 10)
+		if nm then
+			local tx = nm:WaitForChild("NomeTexto", 10)
+			if tx then
+				tx.TextColor3 = Cores.Nome.Letraakakakaka
+				tx.TextStrokeColor3 = Cores.Nome.Borda
+
+				cnNome = tx:GetPropertyChangedSignal("TextColor3"):Connect(function()
+					tx.TextColor3 = Cores.Nome.Letraakakakaka
+					tx.TextStrokeColor3 = Cores.Nome.Borda
+				end)
+			end
+		end
+	end)
+
+
+	task.spawn(function()
+		local pt = c:WaitForChild("Patente", 10)
+		if pt then
+			local tx2 = pt:WaitForChild("PatenteTexto", 10)
+			if tx2 then
+				tx2.Text = p:GetRoleInGroup(gid)
+				tx2.TextColor3 = Cores.Patente.Letraakakakaka
+				tx2.TextStrokeColor3 = Cores.Patente.Borda
+
+				cnPatente = tx2:GetPropertyChangedSignal("TextColor3"):Connect(function()
+					tx2.Text = p:GetRoleInGroup(gid)
+					tx2.TextColor3 = Cores.Patente.Letraakakakaka
+					tx2.TextStrokeColor3 = Cores.Patente.Borda
+				end)
+			end
+		end
+	end)
+
+	task.delay(8, function()
+		if cn then cn:Disconnect() cn = nil end
+		if cnNome then cnNome:Disconnect() cnNome = nil end
+		if cnPatente then cnPatente:Disconnect() cnPatente = nil end
+	end)
+end
+
+plyrs.PlayerAdded:Connect(function(pl)
+	pl.CharacterAdded:Connect(function(chr)
+		if pl:GetRankInGroup(gid) >= minR then
+			setupChar(chr, pl)
+		end
+	end)
+end)
