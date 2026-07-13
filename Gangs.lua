@@ -10,3 +10,5 @@ local Gangs = {
 		Items = {"RinneganPushActivator","Mundo","Kunai","SocoEletrico","PISOLUASEVENTO","dismantelar","CollateralRuin","soco","SusanooT"},
 	},
 }
+
+-- coloque mais gangues aqui
