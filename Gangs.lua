@@ -2,7 +2,7 @@ return {
     {
         Grupo = 34782392,
         MinRank = 15,
-        GangNome = "Os Hashiras",
+        GangNome = "Os testes",
         MaxHealth = 1000,
         Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(0, 0, 127) },
