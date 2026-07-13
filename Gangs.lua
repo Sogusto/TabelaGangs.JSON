@@ -19,5 +19,5 @@ return {
 		Team = { Letraakakakaka = Color3.fromRGB(255, 170, 0), Borda = Color3.fromRGB(255, 170, 0) },
 		Items = {"Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"},
 	},
-        
+}     
 -- coloque mais gangues aqui
