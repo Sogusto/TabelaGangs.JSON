@@ -30,7 +30,7 @@ return {
 		Items = {"Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"},
 },
     {
-        Grupo = 34782392,
+        Grupo = 755862819,
         MinRank = 5,
         GangNome = "Darth Kyrat",
         MaxHealth = 1000,
