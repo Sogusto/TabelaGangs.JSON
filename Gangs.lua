@@ -14,9 +14,9 @@ return {
 		MinRank = 199,
 		GangNome = "Eternity Order",
 		MaxHealth = 1000,
-		Nome = { Letraakakakaka = Color3.fromRGB(227, 196, 255), Borda = Color3.fromRGB(0, 0, 0) },
-		Patente = { Letraakakakaka = Color3.fromRGB(227, 196, 255), Borda = Color3.fromRGB(0, 0, 0) },
-		Team = { Letraakakakaka = Color3.fromRGB(227, 196, 255), Borda = Color3.fromRGB(255, 170, 0) },
+		Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(227, 196, 255) },
+		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(227, 196, 255) },
+		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(227, 196, 255) },
 		Items = {"Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"},
 	},
 }     
