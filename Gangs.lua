@@ -28,6 +28,18 @@ return {
 		Patente = { Letraakakakaka = Color3.fromRGB(125, 187, 221), Borda = Color3.fromRGB(255, 255, 255) },
 		Team = { Letraakakakaka = Color3.fromRGB(123, 46, 47), Borda = Color3.fromRGB(0, 0, 0) },
 		Items = {"Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"},
+},
+    {
+        Grupo = 34782392,
+        MinRank = 5,
+        GangNome = "Darth Kyrat",
+        MaxHealth = 1000,
+        Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(139, 0, 0) },
+        Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(139, 0, 0) },
+        Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(139, 0, 0) },
+        Items = {"DoubleJump","Mundo","Kunai","SocoEletrico","pisao","dismantelar","CollateralRuin","soco","SusanooT"},
+    },
+  	{
 }     
 }
 -- coloque mais gangues aqui
