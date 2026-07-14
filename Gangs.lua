@@ -13,7 +13,7 @@ return {
 		Grupo = 33345163,
 		MinRank = 199,
 		GangNome = "Eternity Order",
-		MaxHealth = 1000,
+		MaxHealth = 5000,
 		Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(227, 196, 255) },
 		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(227, 196, 255) },
 		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(227, 196, 255) },
