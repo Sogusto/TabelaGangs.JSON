@@ -33,13 +33,23 @@ return {
         Grupo = 755862819,
         MinRank = 5,
         GangNome = "Darth Kyrat",
-        MaxHealth = 1000,
-        Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(139, 0, 0) },
-        Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(139, 0, 0) },
-        Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(139, 0, 0) },
+        MaxHealth = 5000,
+        Nome = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
+        Patente = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
+        Team = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
         Items = {"DoubleJump","Mundo","Kunai","SocoEletrico","pisao","dismantelar","CollateralRuin","soco","SusanooT","BlackHole","Raio","Rinnegan","Kokusen"},
 },
     {
-}     
+} 
+        Grupo = 916548506,
+	      	MinRank = 2,
+	      	GangNome = "Crimson Nebula",
+		      MaxHealth = 750,
+		Nome = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB (255, 255, 255) },
+		Patente = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
+		Team = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
+		Items = {"SocoEletrico","Kokusen","Rinnegan","Mundo"},
+},
+    {    
 }
 -- coloque mais gangues aqui
