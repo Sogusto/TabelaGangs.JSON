@@ -41,7 +41,7 @@ return {
 },
 {
     Grupo = 916548506,
-	MinRank = 2,
+	MinRank = 1,
 	GangNome = "Crimson Nebula",
 	MaxHealth = 750,
 		Nome = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB (255, 255, 255) },
@@ -49,15 +49,15 @@ return {
 		Team = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
 		Items = {"SocoEletrico","Kokusen","Rinnegan","Mundo"},
 },
-}    
-Grupo = 916548506,
-	MinRank = 2,
-	GangNome = "Crimson Nebula",
+{
+Grupo = 765566780,
+	MinRank = 1,
+	GangNome = "Los Calvitos",
 	MaxHealth = 750,
-		Nome = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB (255, 255, 255) },
-		Patente = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
-		Team = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
-		Items = {"SocoEletrico","Kokusen","Rinnegan","Mundo"},
+		Nome = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB (0, 0, 0) },
+		Patente = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+		Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+		Items = {"CorteCircular","Mundo","Kunai","Impulso"},
 },
 }    
 -- coloque mais gangues aqui
