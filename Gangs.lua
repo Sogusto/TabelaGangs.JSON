@@ -42,9 +42,9 @@ return {
     {
 } 
         Grupo = 916548506,
-	      	MinRank = 2,
-	      	GangNome = "Crimson Nebula",
-		      MaxHealth = 750,
+	MinRank = 2,
+	GangNome = "Crimson Nebula",
+	MaxHealth = 750,
 		Nome = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB (255, 255, 255) },
 		Patente = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
 		Team = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
