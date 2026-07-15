@@ -29,7 +29,7 @@ return {
 		Team = { Letraakakakaka = Color3.fromRGB(123, 46, 47), Borda = Color3.fromRGB(0, 0, 0) },
 		Items = {"Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"},
 },
-    {
+{
         Grupo = 755862819,
         MinRank = 5,
         GangNome = "Darth Kyrat",
@@ -39,9 +39,8 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
         Items = {"DoubleJump","Mundo","Kunai","SocoEletrico","pisao","dismantelar","CollateralRuin","soco","SusanooT","BlackHole","Raio","Rinnegan","Kokusen"},
 },
-    {
-} 
-        Grupo = 916548506,
+{
+    Grupo = 916548506,
 	MinRank = 2,
 	GangNome = "Crimson Nebula",
 	MaxHealth = 750,
@@ -50,6 +49,5 @@ return {
 		Team = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
 		Items = {"SocoEletrico","Kokusen","Rinnegan","Mundo"},
 },
-    {    
-}
+}    
 -- coloque mais gangues aqui
