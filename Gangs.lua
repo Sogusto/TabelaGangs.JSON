@@ -50,6 +50,16 @@ return {
 		Items = {"SocoEletrico","Kokusen","Rinnegan","Mundo"},
 },
 {
+	Grupo = 35831920,
+	MinRank = 255,
+	GangNome = "test gang",
+	MaxHealth = 9999999,
+		Nome = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB (0, 0, 0) },
+		Patente = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+		Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+		Items = {"CorteCircular","Mundo","Kunai","Impulso"},
+	},
+		{
 Grupo = 765566780,
 	MinRank = 1,
 	GangNome = "Los Calvitos",
