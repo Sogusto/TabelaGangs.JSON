@@ -56,10 +56,11 @@ return {
 	MaxHealth = 9999999,
 		Nome = { Letraakakakaka = Color3.fromRGB(248, 248, 248), Borda = Color3.fromRGB (17, 17, 17) },
 		Patente = { Letraakakakaka = Color3.fromRGB(248, 248, 248), Borda = Color3.fromRGB(17, 17, 17) },
-		Team = { Letraakakakaka = Color3.fromRGB(151, 0, 0), Borda = Color3.fromRGB17, 17, 17) },
+		Team = { Letraakakakaka = Color3.fromRGB(151, 0, 0), Borda = Color3.fromRGB (17, 17, 17) },
 		Items = {"CorteCircular","Mundo","Kunai","Impulso","CorteCircular"},
-	},
-		{
+},
+{
+	
 Grupo = 765566780,
 	MinRank = 1,
 	GangNome = "Los Calvitos",
@@ -69,5 +70,5 @@ Grupo = 765566780,
 		Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
 		Items = {"CorteCircular","Mundo","Kunai","Impulso"},
 },
-}    
+}
 -- coloque mais gangues aqui
