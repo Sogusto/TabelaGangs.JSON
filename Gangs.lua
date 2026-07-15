@@ -52,11 +52,11 @@ return {
 {
 	Grupo = 35831920,
 	MinRank = 255,
-	GangNome = "test gang",
+	GangNome = "Kanto Manji Gang ギャング",
 	MaxHealth = 9999999,
-		Nome = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB (0, 0, 0) },
-		Patente = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
-		Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+		Nome = { Letraakakakaka = Color3.fromRGB(248, 248, 248), Borda = Color3.fromRGB (17, 17, 17) },
+		Patente = { Letraakakakaka = Color3.fromRGB(248, 248, 248), Borda = Color3.fromRGB(17, 17, 17) },
+		Team = { Letraakakakaka = Color3.fromRGB(151, 0, 0), Borda = Color3.fromRGB17, 17, 17) },
 		Items = {"CorteCircular","Mundo","Kunai","Impulso","CorteCircular"},
 	},
 		{
