@@ -80,5 +80,15 @@ Grupo = 765566780,
 		Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
 		Items = {"CorteCircular","Mundo","Kunai","Impulso"},
 },
+{
+	Grupo = 17198683,
+	MinRank = 255,
+	GangNome = "teste",
+	MaxHealth = 750,
+		Nome = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB (0, 0, 0) },
+		Patente = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+		Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+		Items = {"CorteCircular","Mundo","Kunai","Impulso"},
+},
 }
 -- coloque mais gangues aqui
