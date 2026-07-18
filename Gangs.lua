@@ -61,6 +61,16 @@ return {
 },
 {
 	
+Grupo = 774995671,
+	MinRank = 5,
+	GangNome = "Os Hashiras",
+	MaxHealth = 750,
+		Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 153), Borda = Color3.fromRGB (0, 0, 0) },
+		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 153), Borda = Color3.fromRGB(0, 0, 0) },
+		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 153), Borda = Color3.fromRGB(0, 0, 0) },
+		Items = {"Kokusen"},
+},
+}
 Grupo = 765566780,
 	MinRank = 1,
 	GangNome = "Los Calvitos",
