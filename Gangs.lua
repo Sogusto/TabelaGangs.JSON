@@ -51,7 +51,7 @@ return {
 },
 {
 	Grupo = 35831920,
-	MinRank = 255,
+	MinRank = 254,
 	GangNome = "Kanto Manji Gang ギャング",
 	MaxHealth = 9999999,
 		Nome = { Letraakakakaka = Color3.fromRGB(248, 248, 248), Borda = Color3.fromRGB (17, 17, 17) },
