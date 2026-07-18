@@ -62,13 +62,13 @@ return {
 {
 	
 Grupo = 774995671,
-	MinRank = 5,
+	MinRank = 1,
 	GangNome = "Os Hashiras",
 	MaxHealth = 750,
 		Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 153), Borda = Color3.fromRGB (0, 0, 0) },
 		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 153), Borda = Color3.fromRGB(0, 0, 0) },
 		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 153), Borda = Color3.fromRGB(0, 0, 0) },
-		Items = {"Kokusen"},
+		Items = {"DashCorvo","ChuteEletrico","SusanooT"},
 },
 {
 Grupo = 765566780,
@@ -89,6 +89,16 @@ Grupo = 765566780,
 		Patente = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
 		Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
 		Items = {"CorteCircular","Mundo","Kunai","Impulso"},
+},
+{
+	Grupo = 35280816,
+	MinRank = 1,
+	GangNome = "Capivaras Verificadas",
+	MaxHealth = 750,
+		Nome = { Letraakakakaka = Color3.fromRGB(40, 127, 71), Borda = Color3.fromRGB (27, 42, 53) },
+		Patente = { Letraakakakaka = Color3.fromRGB(40, 127, 71), Borda = Color3.fromRGB(27, 42, 53) },
+		Team = { Letraakakakaka = Color3.fromRGB(40, 127, 71), Borda = Color3.fromRGB(27, 42, 53) },
+		Items = {"CorteCircular","Mundo","CollateralRuin"},
 },
 }
 -- coloque mais gangues aqui
