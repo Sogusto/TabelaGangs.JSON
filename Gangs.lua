@@ -37,7 +37,7 @@ return {
         Nome = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
         Patente = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
         Team = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
-        Items = {"DoubleJump","Mundo","Kunai","SocoEletrico","pisao","dismantelar","CollateralRuin","HinokamiKagura","SusanooT","BlackHole","CorteCircular","Rinnegan","Kokusen"},
+        Items = {"DoubleJump","Mundo","Kunai","SocoEletrico","","dismantelar","CollateralRuin","","SusanooT","","CorteCircular","Rinnegan","Kokusen"},
 },
 {
     Grupo = 916548506,
@@ -83,7 +83,7 @@ Grupo = 765566780,
 {
 	Grupo = 17198683,
 	MinRank = 255,
-	GangNome = "teste",
+	GangNome = "Penguins",
 	MaxHealth = 750,
 		Nome = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB (0, 0, 0) },
 		Patente = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
