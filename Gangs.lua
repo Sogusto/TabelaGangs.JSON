@@ -100,5 +100,17 @@ Grupo = 765566780,
 		Team = { Letraakakakaka = Color3.fromRGB(40, 127, 71), Borda = Color3.fromRGB(27, 42, 53) },
 		Items = {"CorteCircular","Mundo","CollateralRuin"},
 },
-}
+{
+		    
+		Grupo = 8715649,
+		MinRank = 10,
+		GangNome = "Birgulinhas",
+		MaxHealth = 10000,
+		Nome = { Letraakakakaka = Color3.fromRGB(107, 50, 124), Borda = Color3.fromRGB (255, 255, 255) },
+		Patente = { Letraakakakaka = Color3.fromRGB(125, 187, 221), Borda = Color3.fromRGB(85, 0, 0) },
+		Team = { Letraakakakaka = Color3.fromRGB(123, 46, 47), Borda = Color3.fromRGB(85, 0, 0) },
+		Items = {"Susanoo","Raio","CorteCircular"},
+},
+	}
+  
 -- coloque mais gangues aqui
