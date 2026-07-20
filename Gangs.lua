@@ -50,8 +50,8 @@ return {
 		Items = {"SocoEletrico","Kokusen","Rinnegan","Mundo"},
 },
 {
-	Grupo = 35831920,
-	MinRank = 254,
+	Grupo = 11199941,
+	MinRank = 1,
 	GangNome = "Kanto Manji Gang ギャング",
 	MaxHealth = 9999999,
 		Nome = { Letraakakakaka = Color3.fromRGB(248, 248, 248), Borda = Color3.fromRGB (17, 17, 17) },
