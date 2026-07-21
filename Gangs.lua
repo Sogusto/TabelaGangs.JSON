@@ -7,7 +7,7 @@ return {
         Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 25) },
-        Items = {"DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"},
+        Items = {"PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"},
     },
   	{
 		Grupo = 33345163,
@@ -110,6 +110,16 @@ Grupo = 765566780,
 		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(85, 0, 0) },
 		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(85, 0, 0) },
 		Items = {"Susanoo","Raio","CorteCircular"},
+},
+	{
+  		Grupo = 552686270,
+		MinRank = 10,
+		GangNome = "Luas Superiores ",
+		MaxHealth = 144,
+		Nome = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB (0, 0, 0) },
+		Patente = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
+		Team = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
+		Items = {"CollateralRuin","SusanooT","CorteCircular","SocoEletrico","PisoVento"},
 },
 	}
   
