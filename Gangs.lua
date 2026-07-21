@@ -33,7 +33,7 @@ return {
         Grupo = 755862819,
         MinRank = 5,
         GangNome = "Darth Kyrat",
-        MaxHealth = 5000,
+        MaxHealth = 10000000,
         Nome = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
         Patente = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
         Team = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
