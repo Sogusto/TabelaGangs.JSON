@@ -81,7 +81,7 @@ Grupo = 765566780,
 		Items = {"CorteCircular","Mundo","Kunai","Impulso"},
 },
 {
-	Grupo = 17198683,
+	Grupo = 0, -- Desativada // Novo grupo para receber ranking
 	MinRank = 255,
 	GangNome = "Penguins",
 	MaxHealth = 750,
