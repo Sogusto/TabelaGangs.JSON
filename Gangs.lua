@@ -7,7 +7,7 @@ return {
         Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 25) },
-        Items = {"PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"},
+        Items = {"PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT","Hino"},
     },
   	{
 		Grupo = 33345163,
