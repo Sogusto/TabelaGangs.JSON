@@ -1,5 +1,5 @@
 return {
-  	{
+
 		Grupo = 33345163,
 		MinRank = 199,
 		GangNome = "Eternity Order",
