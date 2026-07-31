@@ -32,11 +32,11 @@ return {
 {
         Grupo = 755862819,
         MinRank = 5,
-        GangNome = "Darth Kyrat",
-        MaxHealth = 10000000,
-        Nome = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
-        Patente = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
-        Team = { Letraakakakaka = Color3.fromRGB(139, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
+        GangNome = "Moebius Gang",
+        MaxHealth = 3000,
+        Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
+        Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
+        Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(128, 0, 0) },
         Items = {"DoubleJump","PisoVento","Kunai","SocoEletrico","","Hino","CollateralRuin","IceParadise","SusanooT","","CorteCircular","Rinnegan",""},
 },
 {
@@ -81,13 +81,13 @@ Grupo = 765566780,
 		Items = {"CorteCircular","Mundo","Kunai","Impulso"},
 },
 {
-	Grupo = 0, -- Desativada // Novo grupo para receber ranking
-	MinRank = 255,
-	GangNome = "Penguins",
-	MaxHealth = 750,
-		Nome = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB (0, 0, 0) },
-		Patente = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
-		Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+	Grupo = 17198683, -- Renegados
+	MinRank = 28,
+	GangNome = "Renegados",
+	MaxHealth = 3000,
+		Nome = { Letraakakakaka = Color3.fromRGB(170, 0, 0), Borda = Color3.fromRGB (0, 0, 0) },
+		Patente = { Letraakakakaka = Color3.fromRGB(255, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
+		Team = { Letraakakakaka = Color3.fromRGB(170, 0, 0), Borda = Color3.fromRGB(0, 0, 0) },
 		Items = {"CorteCircular","Mundo","Kunai","Impulso","IceParadise"},
 },
 {
