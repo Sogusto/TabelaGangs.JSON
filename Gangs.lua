@@ -123,7 +123,7 @@ Grupo = 765566780,
 		Nome = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB (0, 0, 0) },
 		Patente = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
 		Team = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
-		Items = {"CollateralRuin","SusanooT","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","."},
+		Items = {"CollateralRuin","SusanooT","DoubleJump","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","."},
 				adicionais = {
         Shirt = 14787089348,
         Pants = 13711839978,
