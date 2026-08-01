@@ -8,6 +8,11 @@ return {
         Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 25) },
         Items = {"Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","Mikey","SusanooT","Hino"},
+		adicionais = {
+        Shirt = 6850745796,
+        Pants = 7166106431,
+}
+		
     },
       {
 		Grupo = 33345163,
@@ -119,6 +124,12 @@ Grupo = 765566780,
 		Patente = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
 		Team = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
 		Items = {"CollateralRuin","SusanooT","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","."},
+				adicionais = {
+        Shirt = 14787089348,
+        Pants = 13711839978,
+}
+		
+		
 },
 	}
   
