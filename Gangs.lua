@@ -101,7 +101,6 @@ Grupo = 765566780,
 		Items = {"CorteCircular","Mundo","CollateralRuin"},
 },
 {
-		    
 		Grupo = 8715649,
 		MinRank = 10,
 		GangNome = "Birgulinhas",
@@ -119,7 +118,7 @@ Grupo = 765566780,
 		Nome = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB (0, 0, 0) },
 		Patente = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
 		Team = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
-		Items = {"CollateralRuin","SusanooT","CorteCircular","SocoEletrico","PisoVento"},
+		Items = {"CollateralRuin","SusanooT","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo",},
 },
 	}
   
