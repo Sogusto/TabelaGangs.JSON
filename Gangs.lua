@@ -143,8 +143,8 @@ Grupo = 765566780,
 
 	adicionais = {
 
-		Shirt = 7535774077
-		Pants = 7535774954
+		Shirt = 7535774077,
+		Pants = 7535774954,
 
 	}
 
