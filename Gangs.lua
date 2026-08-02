@@ -143,7 +143,7 @@ Grupo = 765566780,
 		Nome = { Letraakakakaka = Color3.fromRGB(255 , 255, 255), Borda = Color3.fromRGB(227, 196, 255) },
 		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255 , 255, 255) },
 		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
-		Items = {"IceParadise","CollateralRuin","SusanooT","Hino","DoubleJump","ChuteEletrico","BlackHole","Impulso","Rinnegan",}
+		Items = {"Josef","IceParadise","CollateralRuin","SusanooT","Hino","DoubleJump","ChuteEletrico","BlackHole","Impulso","Rinnegan",}
 	},
 
 	adicionais = {
