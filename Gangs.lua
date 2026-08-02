@@ -120,18 +120,48 @@ Grupo = 765566780,
   		Grupo = 552686270,
 		MinRank = 1,
 		GangNome = "Luas Superiores ",
-		MaxHealth = 100000000,
-		Nome = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB (0, 0, 0) },
-		Patente = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
-		Team = { Letraakakakaka = Color3.fromRGB(196, 40, 28), Borda = Color3.fromRGB(85, 0, 0) },
-		Items = {"CollateralRuin","SusanooT","DoubleJump","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","."},
+		MaxHealth = 1000000,
+		Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB (255, 255, 255) },
+		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(107, 37, 1) },
+		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(107, 37, 1) },
+		Items = {"CollateralRuin","SusanooT","DoubleJump","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","SocoFlamejante","IceParadise","ChuteVoador"},
 				adicionais = {
         Shirt = 14787089348,
         Pants = 13711839978,
 }
-		
-		
+		    },
+      {
+		Grupo = 970870505,
+		MinRank = 1,
+		GangNome = "Valhalla",
+		MaxHealth = 10000,
+		Nome = { Letraakakakaka = Color3.fromRGB(255 , 255, 255), Borda = Color3.fromRGB(227, 196, 255) },
+		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255 , 255, 255) },
+		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
+		Items = {"IceParadise","CollateralRuin","SusanooT","Hino","DoubleJump","ChuteEletrico","BlackHole","Impulso","Rinnegan",}
+	},
+
+	adicionais = {
+
+		Shirt = 7535774077
+		Pants = 7535774954
+	}
+    {
+
+      {
+		Grupo = 0, -- modelo
+		MinRank = 0,
+		GangNome = "0",
+		MaxHealth = 0,
+		Nome = { Letraakakakaka = Color3.fromRGB(255 , 255, 255), Borda = Color3.fromRGB(227, 196, 255) },
+		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255 , 255, 255) },
+		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
+		Items = {"0","09","8","5","43","3","3","4"}
+	},
+
+				
 },
 	}
+
   
 -- coloque mais gangues aqui
