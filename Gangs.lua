@@ -141,15 +141,10 @@ Grupo = 765566780,
 		Items = {"IceParadise","CollateralRuin","SusanooT","Hino","DoubleJump","ChuteEletrico","BlackHole","Impulso","Rinnegan",}
 	},
 
-	adicionais = {
-
-		Shirt = 7535774077,
-		Pants = 7535774954,
-
-	}
-
-	},
-
-
+    adicionais = {
+        Shirt = 7535774077,
+        Pants = 7535774954,
+    },
+}
   
 -- coloque mais gangues aqui
