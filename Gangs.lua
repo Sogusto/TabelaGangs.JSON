@@ -44,6 +44,7 @@ return {
         Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(128, 0, 0) },
         Items = {"DoubleJump","PisoVento","Kunai","SocoEletrico","ChuteVoador","Hino","CollateralRuin","IceParadise","SusanooT","CorteCircular","Rinnegan","DashCorvo"},
+	},
 				adicionais = {
         Shirt = 7602845081,
         Pants = 108311724406011,
