@@ -44,9 +44,6 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(128, 0, 0) },
         Items = {"DoubleJump","PisoVento","Kunai","SocoEletrico","ChuteVoador","Hino","CollateralRuin","IceParadise","SusanooG","CorteCircular","Rinnegan","DashCorvo"},
 },		
-  adicionais = {
-        Shirt = 7602845081,
-        Pants = 108311724406011,
 {
     Grupo = 916548506,
 	MinRank = 1,
