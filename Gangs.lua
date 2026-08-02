@@ -7,7 +7,8 @@ return {
         Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 25) },
-        Items = {"Susanoo_Tokyo","Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","Mikey","SusanooT","Hino"},
+        Items = {"Susanoo_Tokyo","Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","Mikey","SusanooT","Hino
+},
 		adicionais = {
         Shirt = 6850745796,
         Pants = 7166106431,
@@ -34,7 +35,7 @@ return {
 		Team = { Letraakakakaka = Color3.fromRGB(123, 46, 47), Borda = Color3.fromRGB(0, 0, 0) },
 		Items = {"Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"},
 },
-{
+ {
         Grupo = 755862819,
         MinRank = 5,
         GangNome = "Moebius Gang",
@@ -42,9 +43,9 @@ return {
         Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(128, 0, 0) },
-        Items = {"DoubleJump","PisoVento","Kunai","SocoEletrico","ChuteVoador","Hino","CollateralRuin","IceParadise","SusanooG","CorteCircular","Rinnegan","DashCorvo"},
+        Items = {"DoubleJump","PisoVento","Kunai","SocoEletrico","ChuteVoador","Hino","CollateralRuin","IceParadise","SusanooMAX","CorteCircular","Rinnegan","DashCorvo"},
 },		
-{
+ {
     Grupo = 916548506,
 	MinRank = 1,
 	GangNome = "Crimson Nebula",
