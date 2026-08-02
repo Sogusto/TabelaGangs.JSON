@@ -146,9 +146,10 @@ Grupo = 765566780,
 		Shirt = 7535774077
 		Pants = 7535774954
 
+	}
+
 	},
 
-	}
 
   
 -- coloque mais gangues aqui
