@@ -145,16 +145,7 @@ Grupo = 765566780,
 
 		Shirt = 7535774077
 		Pants = 7535774954
-	}
-    {
-		Grupo = 0, -- modelo
-		MinRank = 0,
-		GangNome = "0",
-		MaxHealth = 0,
-		Nome = { Letraakakakaka = Color3.fromRGB(255 , 255, 255), Borda = Color3.fromRGB(227, 196, 255) },
-		Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255 , 255, 255) },
-		Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
-		Items = {"0","09","8","5","43","3","3","4"}
+
 	},
 
 	}
