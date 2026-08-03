@@ -14,7 +14,7 @@ return {
             Pants = 7166106431,
         }
 },
-{
+ {
         Grupo = 33345163,
         MinRank = 199,
         GangNome = "Eternity Order",
@@ -24,7 +24,7 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(227, 196, 255) },
         Items = {"DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"},
 },
-{
+ {
         Grupo = 35371915,
         MinRank = 2,
         GangNome = "Blue Lock",
@@ -42,7 +42,7 @@ return {
         Nome = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 255) },
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(128, 0, 0) },
-        Items = {"DoubleJump","Kunai","SocoEletrico","Hino","CollateralRuin","SusanooT","CorteCircular","pisao","PisoVento","Rinnegan_Push","Mundo","Susanoo_Tokyo"},
+        Items = {"DoubleJump","Kunai","SocoEletrico","Hino","CollateralRuin","SusanooT","CorteCircular","pisao","PisoVento","SocoFlamejante","Mundo","Susanoo_Tokyo"},
 },
  {
         Grupo = 916548506,
@@ -54,7 +54,7 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(177, 156, 217), Borda = Color3.fromRGB(255, 255, 255) },
         Items = {"SocoEletrico","Kokusen","Rinnegan","Mundo"},
 },
-{
+ {
         Grupo = 11199941,
         MinRank = 1,
         GangNome = "Kanto Manji Gang ギャング",
@@ -64,7 +64,7 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(151, 0, 0), Borda = Color3.fromRGB(17, 17, 17) },
         Items = {"CorteCircular","Mundo","Kunai","Impulso","CorteCircular","pisao"},
 },
-{
+ {
         Grupo = 774995671,
         MinRank = 1,
         GangNome = "Os Hashiras",
@@ -74,7 +74,7 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 153), Borda = Color3.fromRGB(0, 0, 0) },
         Items = {"DashCorvo","ChuteEletrico","SusanooT"},
 },
-{
+ {
         Grupo = 765566780,
         MinRank = 1,
         GangNome = "Los Calvitos",
@@ -84,7 +84,7 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(0, 255, 255), Borda = Color3.fromRGB(0, 0, 0) },
         Items = {"CorteCircular","Mundo","Kunai","Impulso"},
 },
-{
+ {
         Grupo = 17198683, -- Renegados
         MinRank = 28,
         GangNome = "Renegados",
@@ -104,7 +104,7 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(40, 127, 71), Borda = Color3.fromRGB(27, 42, 53) },
         Items = {"CorteCircular","Mundo","CollateralRuin"},
 },
-{
+ {
         Grupo = 8715649,
         MinRank = 10,
         GangNome = "Birgulinhas",
@@ -114,7 +114,7 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(85, 0, 0) },
         Items = {"Susanoo","Raio","CorteCircular"},
 },
-{
+ {
         Grupo = 552686270,
         MinRank = 1,
         GangNome = "Luas Superiores ",
