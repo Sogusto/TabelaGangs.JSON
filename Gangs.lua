@@ -44,13 +44,7 @@ return {
         Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(128, 0, 0) },
         Items = {"DoubleJump","Kunai","SocoEletrico","Hino","CollateralRuin","SusanooT","CorteCircular","pisao","PisoVento","Rinnegan_Push","Mundo","Susanoo_Tokyo"},
 },
-
-        adicionais = {
-            Shirt = 7602845081,
-            Pants = 108311724406011,
-        }
-},
-{
+ {
         Grupo = 916548506,
         MinRank = 1,
         GangNome = "Crimson Nebula",
