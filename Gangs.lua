@@ -10,8 +10,8 @@ return {
         Items = {"Rinne","Susanoo_Tokyo","Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","ChuteKoku","hu","Hino"},
 
         adicionais = {
-            Shirt = 6850745796,
-            Pants = 7166106431,
+            Shirt = 12601347767,
+            Pants = 1083479115,
         }
 },
  {
