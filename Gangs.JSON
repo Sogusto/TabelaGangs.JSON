@@ -1,370 +1,135 @@
 [
   {
-    "Grupo": 34782392,
-    "MinRank": 15,
-    "GangNome": "Máfia da Passione",
-    "MaxHealth": 5000,
-    "Nome": {
-      "Letraakakakaka": [255, 255, 255],
-      "Borda": [255, 255, 0]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [153, 0, 153]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [255, 255, 0]
-    },
-    "Items": [
-      "Rinne",
-      "Susanoo_Tokyo",
-      "Dash",
-      "YamatoDash",
-      "YamatoOnOff",
-      "PisoVento",
-      "DoubleJump",
-      "Mundo",
-      "Kunai",
-      "SocoEletrico",
-      "pisao",
-      "IceParadise",
-      "CollateralRuin",
-      "ChuteKoku",
-      "hu",
-      "Hino"
-    ],
-    "adicionais": {
-      "Shirt": 12601347767,
-      "Pants": 1083479115
+    "Grupo":34782392,
+    "MinRank":15,
+    "GangNome":"Máfia da Passione",
+    "MaxHealth":5000,
+    "Nome":{"Letraakakakaka":[255,255,255],"Borda":[255,255,0]},
+    "Patente":{"Letraakakakaka":[0,0,0],"Borda":[153,0,153]},
+    "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,0]},
+    "Items":["Rinne","Susanoo_Tokyo","Dash","YamatoDash","YamatoOnOff","PisoVento","DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","ChuteKoku","hu","Hino"],
+    "adicionais":{
+      "Shirt":12601347767,
+      "Pants":1083479115
     }
   },
   {
-    "Grupo": 33345163,
-    "MinRank": 199,
-    "GangNome": "Eternity Order",
-    "MaxHealth": 10000,
-    "Nome": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [227, 196, 255]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [227, 196, 255]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [227, 196, 255]
-    },
-    "Items": [
-      "DoubleJump",
-      "Mundo",
-      "Kunai",
-      "SocoEletrico",
-      "pisao",
-      "IceParadise",
-      "CollateralRuin",
-      "soco",
-      "SusanooT"
-    ]
+    "Grupo":33345163,
+    "MinRank":199,
+    "GangNome":"Eternity Order",
+    "MaxHealth":10000,
+    "Nome":{"Letraakakakaka":[0,0,0],"Borda":[227,196,255]},
+    "Patente":{"Letraakakakaka":[0,0,0],"Borda":[227,196,255]},
+    "Team":{"Letraakakakaka":[0,0,0],"Borda":[227,196,255]},
+    "Items":["DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"]
   },
   {
-    "Grupo": 35371915,
-    "MinRank": 2,
-    "GangNome": "Blue Lock",
-    "MaxHealth": 5000,
-    "Nome": {
-      "Letraakakakaka": [107, 50, 124],
-      "Borda": [196, 112, 160]
-    },
-    "Patente": {
-      "Letraakakakaka": [125, 187, 221],
-      "Borda": [255, 255, 255]
-    },
-    "Team": {
-      "Letraakakakaka": [123, 46, 47],
-      "Borda": [0, 0, 0]
-    },
-    "Items": [
-      "Susanoo",
-      "Raio",
-      "Rinnegan",
-      "Kokusen",
-      "DoubleJump",
-      "Kunai",
-      "CollateralRuin",
-      "Mundo",
-      "CorteCircular"
-    ],
+    "Grupo":35371915,
+    "MinRank":2,
+    "GangNome":"Blue Lock",
+    "MaxHealth":5000,
+    "Nome":{"Letraakakakaka":[107,50,124],"Borda":[196,112,160]},
+    "Patente":{"Letraakakakaka":[125,187,221],"Borda":[255,255,255]},
+    "Team":{"Letraakakakaka":[123,46,47],"Borda":[0,0,0]},
+    "Items":["Susanoo","Raio","Rinnegan","Kokusen","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"]
   },
   {
-    "Grupo": 755862819,
-    "MinRank": 5,
-    "GangNome": "Moebius Gang",
-    "MaxHealth": 400000,
-    "Nome": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [255, 255, 255]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [255, 255, 255]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [128, 0, 0]
-    },
-    "Items": [
-      "DoubleJump",
-      "Kunai",
-      "SocoEletrico",
-      "Hino",
-      "CollateralRuin",
-      "SusanooT",
-      "Rinne",
-      "pisao",
-      "ChuteKoku",
-      "SocoFlamejante",
-      "Mundo",
-      "Susanoo_Tokyo"
-      "PisoVento"
-    ]
+    "Grupo":755862819,
+    "MinRank":5,
+    "GangNome":"Moebius Gang",
+    "MaxHealth":40000,
+    "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
+    "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
+    "Team":{"Letraakakakaka":[0,0,0],"Borda":[128,0,0]},
+    "Items":["DoubleJump","Kunai","SocoEletrico","Hino","CollateralRuin","SusanooT","CorteCircular","pisao","ChuteKoku","SocoFlamejante","Mundo","Susanoo_Tokyo"]
   },
-  {
-    "Grupo": 916548506,
-    "MinRank": 1,
-    "GangNome": "Crimson Nebula",
-    "MaxHealth": 750,
-    "Nome": {
-      "Letraakakakaka": [177, 156, 217],
-      "Borda": [255, 255, 255]
-    },
-    "Patente": {
-      "Letraakakakaka": [177, 156, 217],
-      "Borda": [255, 255, 255]
-    },
-    "Team": {
-      "Letraakakakaka": [177, 156, 217],
-      "Borda": [255, 255, 255]
-    },
-    "Items": [
-      "SocoEletrico",
-      "Kokusen",
-      "Rinnegan",
-      "Mundo"
-    ]
-  },
-  {
-    "Grupo": 11199941,
-    "MinRank": 1,
-    "GangNome": "Kanto Manji Gang ギャング",
-    "MaxHealth": 9999999,
-    "Nome": {
-      "Letraakakakaka": [248, 248, 248],
-      "Borda": [17, 17, 17]
-    },
-    "Patente": {
-      "Letraakakakaka": [248, 248, 248],
-      "Borda": [17, 17, 17]
-    },
-    "Team": {
-      "Letraakakakaka": [151, 0, 0],
-      "Borda": [17, 17, 17]
-    },
-    "Items": [
-      "CorteCircular",
-      "Mundo",
-      "Kunai",
-      "Impulso",
-      "CorteCircular",
-      "pisao"
-    ]
-  },
-  {
-    "Grupo": 774995671,
-    "MinRank": 1,
-    "GangNome": "Os Hashiras",
-    "MaxHealth": 750,
-    "Nome": {
-      "Letraakakakaka": [0, 0, 153],
-      "Borda": [0, 0, 0]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 0, 153],
-      "Borda": [0, 0, 0]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 0, 153],
-      "Borda": [0, 0, 0]
-    },
-    "Items": [
-      "DashCorvo",
-      "ChuteEletrico",
-      "SusanooT"
-    ]
-  },
-  {
-    "Grupo": 765566780,
-    "MinRank": 1,
-    "GangNome": "Los Calvitos",
-    "MaxHealth": 750,
-    "Nome": {
-      "Letraakakakaka": [0, 255, 255],
-      "Borda": [0, 0, 0]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 255, 255],
-      "Borda": [0, 0, 0]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 255, 255],
-      "Borda": [0, 0, 0]
-    },
-    "Items": [
-      "CorteCircular",
-      "Mundo",
-      "Kunai",
-      "Impulso"
-    ]
-  },
-  {
-    "Grupo": 17198683,
-    "MinRank": 28,
-    "GangNome": "Renegados",
-    "MaxHealth": 3000,
-    "Nome": {
-      "Letraakakakaka": [170, 0, 0],
-      "Borda": [0, 0, 0]
-    },
-    "Patente": {
-      "Letraakakakaka": [255, 255, 255],
-      "Borda": [0, 0, 0]
-    },
-    "Team": {
-      "Letraakakakaka": [170, 0, 0],
-      "Borda": [0, 0, 0]
-    },
-    "Items": [
-      "CorteCircular",
-      "Mundo",
-      "Kunai",
-      "Impulso",
-      "IceParadise",
-      "ChuteVoador"
-    ]
-  },
-  {
-    "Grupo": 35280816,
-    "MinRank": 1,
-    "GangNome": "Capivaras Verificadas",
-    "MaxHealth": 750,
-    "Nome": {
-      "Letraakakakaka": [40, 127, 71],
-      "Borda": [27, 42, 53]
-    },
-    "Patente": {
-      "Letraakakakaka": [40, 127, 71],
-      "Borda": [27, 42, 53]
-    },
-    "Team": {
-      "Letraakakakaka": [40, 127, 71],
-      "Borda": [27, 42, 53]
-    },
-    "Items": [
-      "CorteCircular",
-      "Mundo",
-      "CollateralRuin"
-    ]
-  },
-  {
-    "Grupo": 8715649,
-    "MinRank": 10,
-    "GangNome": "Birgulinhas",
-    "MaxHealth": 10000,
-    "Nome": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [255, 255, 255]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [85, 0, 0]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [85, 0, 0]
-    },
-    "Items": [
-      "Susanoo",
-      "Raio",
-      "CorteCircular"
-    ]
-  },
-  {
-    "Grupo": 552686270,
-    "MinRank": 1,
-    "GangNome": "Luas Superiores",
-    "MaxHealth": 1000000,
-    "Nome": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [255, 255, 255]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [107, 37, 1]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [107, 37, 1]
-    },
-    "Items": [
-      "CollateralRuin",
-      "SusanooT",
-      "DoubleJump",
-      "CorteCircular",
-      "SocoEletrico",
-      "PisoVento",
-      "Hino",
-      "DashCorvo",
-      "SocoFlamejante",
-      "IceParadise",
-      "ChuteVoador"
-    ],
-    "adicionais": {
-      "Shirt": 14787089348,
-      "Pants": 13711839978
-    }
-  },
-  {
-    "Grupo": 970870505,
-    "MinRank": 1,
-    "GangNome": "Valhalla",
-    "MaxHealth": 10000,
-    "Nome": {
-      "Letraakakakaka": [255, 255, 255],
-      "Borda": [227, 196, 255]
-    },
-    "Patente": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [255, 255, 255]
-    },
-    "Team": {
-      "Letraakakakaka": [0, 0, 0],
-      "Borda": [255, 255, 255]
-    },
-    "Items": [
-      "IceParadise",
-      "CollateralRuin",
-      "SusanooT",
-      "Hino",
-      "DoubleJump",
-      "ChuteEletrico",
-      "BlackHole",
-      "Impulso",
-      "Rinnegan"
-    ],
-    "adicionais": {
-      "Shirt": 7535774077,
-      "Pants": 7535774954
-    }
-  }
-]
+{
+    "Grupo":916548506,
+    "MinRank":1,
+    "GangNome":"Crimson Nebula",
+    "MaxHealth":750,
+    "Nome":{"Letraakakakaka":[177,156,217],"Borda":[255,255,255]},
+    "Patente":{"Letraakakakaka":[177,156,217],"Borda":[255,255,255]},
+    "Team":{"Letraakakakaka":[177,156,217],"Borda":[255,255,255]},
+    "Items":["SocoEletrico","Kokusen","Rinnegan","Mundo"]
+},
+{
+    "Grupo":11199941,
+    "MinRank":1,
+    "GangNome":"Kanto Manji Gang ギャング",
+    "MaxHealth":9999999,
+    "Nome":{"Letraakakakaka":[248,248,248],"Borda":[17,17,17]},
+    "Patente":{"Letraakakakaka":[248,248,248],"Borda":[17,17,17]},
+    "Team":{"Letraakakakaka":[151,0,0],"Borda":[17,17,17]},
+    "Items":["CorteCircular","Mundo","Kunai","Impulso","CorteCircular","pisao"]
+},
+{
+    "Grupo":774995671,
+    "MinRank":1,
+    "GangNome":"Os Hashiras",
+    "MaxHealth":750,
+    "Nome":{"Letraakakakaka":[0,0,153],"Borda":[0,0,0]},
+    "Patente":{"Letraakakakaka":[0,0,153],"Borda":[0,0,0]},
+    "Team":{"Letraakakakaka":[0,0,153],"Borda":[0,0,0]},
+    "Items":["DashCorvo","ChuteEletrico","SusanooT"]
+},
+{
+    "Grupo":765566780,
+    "MinRank":1,
+    "GangNome":"Los Calvitos",
+    "MaxHealth":750,
+    "Nome":{"Letraakakakaka":[0,255,255],"Borda":[0,0,0]},
+    "Patente":{"Letraakakakaka":[0,255,255],"Borda":[0,0,0]},
+    "Team":{"Letraakakakaka":[0,255,255],"Borda":[0,0,0]},
+    "Items":["CorteCircular","Mundo","Kunai","Impulso"]
+},
+{
+    "Grupo":17198683,
+    "MinRank":28,
+    "GangNome":"Renegados",
+    "MaxHealth":3000,
+    "Nome":{"Letraakakakaka":[170,0,0],"Borda":[0,0,0]},
+    "Patente":{"Letraakakakaka":[255,255,255],"Borda":[0,0,0]},
+    "Team":{"Letraakakakaka":[170,0,0],"Borda":[0,0,0]},
+    "Items":["CorteCircular","Mundo","Kunai","Impulso","IceParadise","ChuteVoador"]
+},
+{
+    "Grupo":35280816,
+    "MinRank":1,
+    "GangNome":"Capivaras Verificadas",
+    "MaxHealth":750,
+    "Nome":{"Letraakakakaka":[40,127,71],"Borda":[27,42,53]},
+    "Patente":{"Letraakakakaka":[40,127,71],"Borda":[27,42,53]},
+    "Team":{"Letraakakakaka":[40,127,71],"Borda":[27,42,53]},
+    "Items":["CorteCircular","Mundo","CollateralRuin"]
+},
+{
+    "Grupo":8715649,
+    "MinRank":10,
+    "GangNome":"Birgulinhas",
+    "MaxHealth":10000,
+    "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
+    "Patente":{"Letraakakakaka":[0,0,0],"Borda":[85,0,0]},
+    "Team":{"Letraakakakaka":[0,0,0],"Borda":[85,0,0]},
+    "Items":["Susanoo","Raio","CorteCircular"]
+},
+{
+    "Grupo":552686270,
+    "MinRank":1,
+    "GangNome":"Luas Superiores ",
+    "MaxHealth":1000000,
+    "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
+    "Patente":{"Letraakakakaka":[0,0,0],"Borda":[107,37,1]},
+    "Team":{"Letraakakakaka":[0,0,0],"Borda":[107,37,1]},
+    "Items":["CollateralRuin","SusanooT","DoubleJump","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","SocoFlamejante","IceParadise","ChuteVoador"]
+},
+{
+    "Grupo":970870505,
+    "MinRank":1,
+    "GangNome":"Valhalla",
+    "MaxHealth":10000,
+    "Nome":{"Letraakakakaka":[255,255,255],"Borda":[227,196,255]},
+    "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
+    "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
+    "Items":["IceParadise","CollateralRuin","SusanooT","Hino","DoubleJump","ChuteEletrico","BlackHole","Impulso","Rinnegan"]
+},
