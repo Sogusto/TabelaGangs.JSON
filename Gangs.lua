@@ -143,7 +143,8 @@ return {
             Shirt = 7535774077,
             Pants = 7535774954,
         },
-		        Grupo = 35907959,
+		{
+		Grupo = 35907959,
         MinRank = 1,
         GangNome = "Máfia da Passione",
         MaxHealth = 5000,
