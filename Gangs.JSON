@@ -129,7 +129,11 @@
       "Susanoo_Tokyo"
       "PisoVento"
     ],
-  }, 
+    "adicionais": {
+      "Shirt": 7602845081,
+      "Pants": 108311724406011
+    }
+  },
   {
     "Grupo": 916548506,
     "MinRank": 1,
