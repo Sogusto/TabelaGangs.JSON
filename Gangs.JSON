@@ -101,7 +101,7 @@
     "Grupo": 755862819,
     "MinRank": 5,
     "GangNome": "Moebius Gang",
-    "MaxHealth": 40000,
+    "MaxHealth": 400000,
     "Nome": {
       "Letraakakakaka": [0, 0, 0],
       "Borda": [255, 255, 255]
