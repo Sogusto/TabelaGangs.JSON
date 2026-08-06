@@ -143,6 +143,16 @@ return {
             Shirt = 7535774077,
             Pants = 7535774954,
         },
+		        Grupo = 35907959,
+        MinRank = 1,
+        GangNome = "Máfia da Passione",
+        MaxHealth = 5000,
+        Nome = { Letraakakakaka = Color3.fromRGB(255, 255, 255), Borda = Color3.fromRGB (255, 255, 0) },
+        Patente = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(153, 0, 153) },
+        Team = { Letraakakakaka = Color3.fromRGB(0, 0, 0), Borda = Color3.fromRGB(255, 255, 0) },
+        Items = {"Susanoo","Raio","Rinnegan","ChuteKoku","DoubleJump","Kunai","CollateralRuin","Mundo","CorteCircular"},
+},
+	{
 },
 }
 -- coloque mais gangues aqui
