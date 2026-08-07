@@ -36,11 +36,11 @@
   {
     "Grupo":755862819,
     "MinRank":5,
-    "GangNome":"Moebius Gang",
+    "GangNome":"Heiwa",
     "MaxHealth":40000,
     "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
-    "Team":{"Letraakakakaka":[0,0,0],"Borda":[128,0,0]},
+    "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,0]},
     "Items":["DoubleJump","Kunai","SocoEletrico","Hino","CollateralRuin","SusanooT","CorteCircular","pisao","ChuteKoku","SocoFlamejante","Mundo","Susanoo_Tokyo"]
   },
 {
