@@ -24,8 +24,8 @@
     "Items":["DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"]
   },
   {
-    "Grupo":33345163,
-    "MinRank":199,
+    "Grupo":35489912,
+    "MinRank":1,
     "GangNome":"Red Dead Redemption",
     "MaxHealth":10000,
     "Nome":{"Letraakakakaka":[139,0,0],"Borda":[255,190,190]},
@@ -149,7 +149,7 @@
     "adicionais":{
       "Shirt":7535774077,
       "Pants":7535774954
-    }
+    },
 }
 ]
 
