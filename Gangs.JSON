@@ -132,6 +132,10 @@
     "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Items":["IceParadise","CollateralRuin","SusanooT","Hino","DoubleJump","ChuteEletrico","BlackHole","Impulso","Rinnegan"]
+    "adicionais":{
+      "Shirt":12601347767,
+      "Pants":1083479115
+    }
 }
 ]
 
