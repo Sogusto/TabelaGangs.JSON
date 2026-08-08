@@ -129,8 +129,8 @@
     "GangNome":"Tokyo Manji",
     "MaxHealth":1000000,
     "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
-    "Patente":{"Letraakakakaka":[0,0,0],"Borda":[107,37,1]},
-    "Team":{"Letraakakakaka":[0,0,0],"Borda":[107,37,1]},
+    "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255]},
+    "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,0]},
     "Items":["CollateralRuin","SusanooT","DoubleJump","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","SocoFlamejante","IceParadise","ChuteVoador"],
     "adicionais":{
       "Shirt":113911762663024,
