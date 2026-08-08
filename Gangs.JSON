@@ -24,6 +24,16 @@
     "Items":["DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"]
   },
   {
+    "Grupo":33345163,
+    "MinRank":199,
+    "GangNome":"Red Dead Redemption",
+    "MaxHealth":10000,
+    "Nome":{"Letraakakakaka":[139,0,0],"Borda":[255,190,190]},
+    "Patente":{"Letraakakakaka":[139,0,0],"Borda":[255,190,190]},
+    "Team":{"Letraakakakaka":[139,0,0],"Borda":[255,190,190]},
+    "Items":["DoubleJump","Mundo","Kunai","SocoEletrico","pisao","IceParadise","CollateralRuin","soco","SusanooT"]
+  },
+  {
     "Grupo":35371915,
     "MinRank":2,
     "GangNome":"Blue Lock",
