@@ -131,7 +131,7 @@
     "Nome":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Patente":{"Letraakakakaka":[0,0,0],"Borda":[107,37,1]},
     "Team":{"Letraakakakaka":[0,0,0],"Borda":[107,37,1]},
-    "Items":["CollateralRuin","SusanooT","DoubleJump","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","SocoFlamejante","IceParadise","ChuteVoador"]
+    "Items":["CollateralRuin","SusanooT","DoubleJump","CorteCircular","SocoEletrico","PisoVento","Hino","DashCorvo","SocoFlamejante","IceParadise","ChuteVoador"],
     "adicionais":{
       "Shirt":113911762663024,
       "Pants":15767462935
@@ -145,11 +145,11 @@
     "Nome":{"Letraakakakaka":[255,255,255],"Borda":[227,196,255]},
     "Patente":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
     "Team":{"Letraakakakaka":[0,0,0],"Borda":[255,255,255]},
-    "Items":["IceParadise","CollateralRuin","SusanooT","Hino","DoubleJump","ChuteEletrico","BlackHole","Impulso","Rinnegan"]
+    "Items":["IceParadise","CollateralRuin","SusanooT","Hino","DoubleJump","ChuteEletrico","BlackHole","Impulso","Rinnegan"],
     "adicionais":{
       "Shirt":7535774077,
       "Pants":7535774954
-    },
+    }
 }
 ]
 
